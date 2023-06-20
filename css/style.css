@@ -16,6 +16,7 @@
   --aquamarine: #7fffd4;
   --lightpink: #ffb6c1;
   --royalblue: #3161e0;
+  --lightgrey: #f6f6f6;
   --bigger: 3rem;
 }
 
@@ -124,8 +125,8 @@ section.bg-white {
   background-color: var(--white);
 }
 
-section.bg-gray {
-  background-color: var(--gray);
+section.bg-lightgrey {
+  background-color: var(--lightgrey);
 }
 
 .main-section {
