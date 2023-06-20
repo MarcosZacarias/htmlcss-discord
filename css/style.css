@@ -249,7 +249,7 @@ ul.list-none > li {
 }
 
 /* ! DEBUG */
-
+/*
 .debug .bordered {
   border: 2px dashed var(--black);
 }
@@ -270,19 +270,19 @@ ul.list-none > li {
 
 .debug .bg-blue {
   background-color: var(--blue);
-  /* min-height: 50px; */
-}
+  min-height: 50px;
+
 
 .debug .bg-fuchsia {
   background-color: var(--fuchsia);
-  /* min-height: 50px; */
-}
+  min-height: 50px;
+
 
 .debug .bg-azure {
   background-color: var(--azure);
   min-height: 50px;
 }
-
+ 
 .debug .bg-pink {
   background-color: var(--pink);
   min-height: 50px;
@@ -318,4 +318,4 @@ ul.list-none > li {
 
 .debug .taller {
   min-height: 600px;
-}
+} */
