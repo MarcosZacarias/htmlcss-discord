@@ -125,6 +125,10 @@ a {
   background-color: rgb(152, 169, 227);
 }
 
+.pad-section > * {
+  padding: 10px;
+}
+
 /* # HEADER */
 
 header {
@@ -238,6 +242,10 @@ section.bg-lightgrey {
 
 ul.list-none {
   list-style-type: none;
+}
+
+ul.list-none > li {
+  padding: 10px 0;
 }
 
 /* ! DEBUG */
