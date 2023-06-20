@@ -82,6 +82,10 @@ a {
   font-weight: 600;
 }
 
+.text-royalblue {
+  color: var(--royalblue);
+}
+
 /* # HEADER */
 
 header {
@@ -170,6 +174,15 @@ section.bg-lightgrey {
 
 .col-25 {
   width: 25%;
+}
+
+.btn-select {
+  background-color: transparent;
+  border: none;
+}
+
+#flag-language {
+  max-height: 17px;
 }
 
 /* ! DEBUG */
