@@ -62,6 +62,10 @@ a {
   justify-content: space-between;
 }
 
+.flex.justify-center {
+  justify-content: center;
+}
+
 .flex.align-center {
   align-items: center;
 }
@@ -84,6 +88,27 @@ a {
 
 .text-royalblue {
   color: var(--royalblue);
+}
+
+.text-black {
+  color: #000000;
+}
+
+.btn {
+  margin: 10px 20px;
+  font-weight: 600;
+  padding: 15px 20px;
+  border-radius: 25px;
+}
+
+.btn.btn-primary {
+  background-color: white;
+  color: #000000;
+}
+
+.btn.btn-secondary {
+  background-color: #000000;
+  color: white;
 }
 
 /* # HEADER */
@@ -121,6 +146,10 @@ header {
 .jumbotron > .container {
   width: 50%;
   min-height: 250px;
+}
+
+div.flex > .btn {
+  margin: 20px 10px;
 }
 
 /* # SECTIONS */
