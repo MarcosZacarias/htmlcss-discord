@@ -27,6 +27,10 @@ body {
   font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+a {
+  text-decoration: none;
+}
+
 /* # UTILS */
 
 .container {
@@ -59,6 +63,10 @@ body {
 
 header {
   padding: 1.5rem 0;
+}
+
+.list-oriz > li {
+  display: inline;
 }
 
 /* # JUMBOTRON */
