@@ -143,6 +143,10 @@ header {
   background-color: var(--royalblue);
 }
 
+ul.list-oriz li {
+  padding: 10px 15px;
+}
+
 /* # JUMBOTRON */
 
 .jumbotron {
