@@ -50,6 +50,10 @@ a {
   display: flex;
 }
 
+.flex.d-column {
+  flex-direction: column;
+}
+
 .flex.d-row-reverse {
   flex-direction: row-reverse;
 }
@@ -115,6 +119,10 @@ a {
   font-size: 0.75rem;
   margin: 0;
   padding: 10px;
+}
+
+.btn.btn-tertiary {
+  background-color: rgb(152, 169, 227);
 }
 
 /* # HEADER */
