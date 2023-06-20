@@ -200,6 +200,14 @@ section.bg-lightgrey {
   width: 30%;
 }
 
+.star {
+  background-image: url(../img/stars.svg);
+  background-position: top;
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding: 20px;
+}
+
 /* # FOOTER */
 
 .bg-darkgray {
