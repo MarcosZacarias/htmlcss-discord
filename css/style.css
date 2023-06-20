@@ -111,6 +111,12 @@ a {
   color: white;
 }
 
+.btn.btn-small {
+  font-size: 0.75rem;
+  margin: 0;
+  padding: 10px;
+}
+
 /* # HEADER */
 
 header {
