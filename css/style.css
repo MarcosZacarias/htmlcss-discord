@@ -185,6 +185,10 @@ section.bg-lightgrey {
   max-height: 17px;
 }
 
+ul.list-none {
+  list-style-type: none;
+}
+
 /* ! DEBUG */
 
 .debug .bordered {
